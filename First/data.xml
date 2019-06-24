@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PCBS>
+    <PCB name="P1">
+        <estimate_time>2</estimate_time>
+        <priority>7</priority>
+    </PCB>
+    <PCB name="P2">
+        <estimate_time>3</estimate_time>
+        <priority>4</priority>
+    </PCB>
+    <PCB name="P3">
+        <estimate_time>2</estimate_time>
+        <priority>6</priority>
+    </PCB>
+    <PCB name="P4">
+        <estimate_time>1</estimate_time>
+        <priority>5</priority>
+    </PCB>
+    <PCB name="P5">
+        <estimate_time>4</estimate_time>
+        <priority>6</priority>
+    </PCB>
+</PCBS>
